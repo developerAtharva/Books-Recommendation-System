@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c71896a2-fe6e-478e-956c-4fc7e2d430a0)# 📚 Books Recommendation System
+# 📚 Books Recommendation System
 
 🚀 **Live Demo:** [Click Here](https://books-recommendation-system-u8rx.onrender.com)
 
