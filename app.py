@@ -2,6 +2,15 @@ from flask import Flask, render_template, request
 import pandas as pd
 import pickle
 from rapidfuzz import process
+import gdown
+
+file_id = "1NuKijoTUmushyHVae3EweWHoz9G6HrXi"
+url = f"https://drive.google.com/uc?id={file_id}"
+output = "similarity.pkl"
+
+import os
+if not os.path.exists(output):
+    gdown.download(url, output, quiet=False)
 
 app = Flask(__name__)
 
