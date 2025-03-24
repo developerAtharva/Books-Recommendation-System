@@ -3,14 +3,21 @@ import pandas as pd
 import pickle
 from rapidfuzz import process
 import gdown
+import os
 
 file_id = "1NuKijoTUmushyHVae3EweWHoz9G6HrXi"
-url = f"https://drive.google.com/uc?id={file_id}"
+url = f"https://drive.google.com/uc?export=download&id={file_id}"
 output = "similarity.pkl"
 
-import os
-if not os.path.exists(output):
-    gdown.download(url, output, quiet=False)
+# Download the file again
+gdown.download(url, output, quiet=False)
+
+# Check if file downloaded correctly
+if os.path.exists(output):
+    print("Download successful!")
+    print(f"File size: {os.path.getsize(output)} bytes")
+else:
+    print("Download failed again! Check your Google Drive link.")
 
 app = Flask(__name__)
 
