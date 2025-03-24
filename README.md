@@ -1,4 +1,4 @@
-# 📚 Books Recommendation System
+![image](https://github.com/user-attachments/assets/c71896a2-fe6e-478e-956c-4fc7e2d430a0)# 📚 Books Recommendation System
 
 🚀 **Live Demo:** [Click Here](https://books-recommendation-system-u8rx.onrender.com)
 
@@ -43,7 +43,7 @@ The **Books Recommendation System** is a web-based application that suggests boo
 
 ## 📷 Screenshots
 [Home Page]![image](https://github.com/user-attachments/assets/8a304b93-afe0-42d0-a3aa-04bbfd542020)
-[Recommendations]![image](https://github.com/user-attachments/assets/78a23692-7c22-4538-9bd1-b66ced55186b)
+[Recommendations]![image](https://github.com/user-attachments/assets/95b4bc12-ff74-4695-9535-5f02c14d2321)
 
 
 ## 💡 Future Improvements
