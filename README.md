@@ -42,8 +42,8 @@ The **Books Recommendation System** is a web-based application that suggests boo
    ```
 
 ## 📷 Screenshots
-![Home Page](![image](https://github.com/user-attachments/assets/8a304b93-afe0-42d0-a3aa-04bbfd542020))
-![Recommendations](![Uploading image.png…](![image](https://github.com/user-attachments/assets/78a23692-7c22-4538-9bd1-b66ced55186b))
+![Home Page]![image](https://github.com/user-attachments/assets/8a304b93-afe0-42d0-a3aa-04bbfd542020)
+![Recommendations]![Uploading image.png…](![image](https://github.com/user-attachments/assets/78a23692-7c22-4538-9bd1-b66ced55186b)
 
 
 ## 💡 Future Improvements
